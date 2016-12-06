@@ -12,6 +12,11 @@ ESDLA 1 -> 10
 ESDLA 2 -> 10
 Toy Story 1 --> 11
 Toy Story 2 --> 10
+Star Wars 1 --> 10
+Star Wars 2 --> 10
+
+
+
 
 
 
