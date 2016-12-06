@@ -8,6 +8,8 @@ Torrente 1 --> 10
 Torrente 2 --> 10
 Los juegos del Hambre 1 --> 8
 Los juegos del Hambre 2 --> 8
+Star Wars 1 --> 10
+Star Wars 2 --> 10
 
 
 
