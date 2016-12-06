@@ -10,7 +10,8 @@ Los juegos del Hambre 1 --> 8
 Los juegos del Hambre 2 --> 8
 ESDLA 1 -> 10
 ESDLA 2 -> 10
-
+Toy Story 1 --> 11
+Toy Story 2 --> 10
 
 
 
