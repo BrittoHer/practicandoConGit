@@ -1,2 +1,3 @@
 && ========= LISTA DE PELICULAS Y VALORACIONES ========= &&
 Fast and furious 1 --> 8
+Fast and furious 2 --> 8
